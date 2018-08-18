@@ -1,0 +1,30 @@
+/*
+
+-- Netflix No Autoplay
+-- (aka I don't need [censored] video playing on every div I hover over)
+
+*/
+
+
+/* Disabling videos on hover */
+.bob-video-merch-player-wrapper,
+.VideoMerchPlayer {
+	display: none !important;
+}
+
+
+/* Disabling accordion effect */
+.slider-item {
+	transform: translate3d(0, 0, 0) !important;
+}
+
+/* Slightly bigger progress bar */
+.title-card-container>.progress {
+	padding: 0% 20% 0;
+	bottom: -5px;
+}
+
+.title-card-container>.progress .progress-bar,
+.title-card-container>.progress .progress-completed {
+	height: 5px;
+}

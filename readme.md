@@ -1,8 +1,8 @@
 # Netflix No Autoplay
-This is just very(!) simple CSS to tweak a little bit Netflix website (2018) to stop those annoying autoplay videos while you're browsing through.
+This is just a very(!) simple CSS to tweak a little bit Netflix website (2018) to stop those annoying autoplay videos while you're browsing through.
 
 ## What does it do exactly?
--  All autoplay videos which appears on hover/mouseover are disabled
+- All autoplay videos which appears on hover/mouseover are disabled
 - Accordion effect is also disabled
 
 ## How to use it
